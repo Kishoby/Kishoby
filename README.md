@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Kishoby Sriranjan</h1>
 <h3 align="center">Designer and Frontend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://images.playground.com/83eec758c0b047008820b7219bb8bb97.jpeg">
@@ -13,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kishoby sriranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishoby sriranjan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sriranjan-kishoby-388451280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sriranjan-kishoby-388451280" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishoby&show_icons=true&locale=en" alt="kishoby" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishoby&" alt="kishoby" /></p>
+
+
+
 
